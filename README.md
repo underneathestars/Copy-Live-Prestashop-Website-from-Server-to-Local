@@ -14,7 +14,7 @@ Instructions for cloning an online Prestashop Store to a local machine (localhos
 
 2. Export your store database, the easiest way is through phpMyAdmin -> export or by SSH typing:  
 
-    `mysqldump -u dbusername -p dbname > yourdatabase.sql` in the Command Prompt.
+    `mysqldump -u dbusername -p dbname > yourdatabase.sql` in the Linux Shell.
 
 3. Inside phpMyAdmin, create a new database.
 
